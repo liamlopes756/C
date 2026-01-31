@@ -9,6 +9,7 @@ The projects were developed based on university coursework, structured programmi
 
 ## Repository Projects
 
+- **Beecrowd Problems** - Competitive programming
 - **Domino Game** - Core game logic implemented in C
 - **Conway’s Game of Life** - Cellular automaton simulation
 - **Hotel System** - CRUD and matrix uses
